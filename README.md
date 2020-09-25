@@ -1,3 +1,7 @@
+This code is associated with the paper from Hol et al., "BiteOscope, an open platform to study
+mosquito biting behavior". eLife, 2020. http://doi.org/10.7554/eLife.56829
+
+
 # biteOscope
 
 ### Running a biteOscope and processing data. 
